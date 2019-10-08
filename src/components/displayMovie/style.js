@@ -4,9 +4,10 @@ export const WrapperMovie = styled.div`
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin: 2px;
-    padding: 2px;
-    border: 1px solid red;
+    margin: 5px;
+    padding: 4px;
+    background-color: #B5BAD0;
+    border-radius: 5px;
 `
 
 export const WrapperImg = styled.img`

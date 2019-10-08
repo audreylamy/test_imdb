@@ -1,5 +1,4 @@
-import React, { useState, useEffect }   from "react"
-import { WrapperMovie, WrapperImg, WrapperInfos } from "./style"
+import React  from "react"
 import { WithMoviesHoc } from "../../hoc/MoviesHoc"
 
 const Filter = ({context}) => {
